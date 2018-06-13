@@ -1,0 +1,14 @@
+<svg class="mainIcon" id="battery" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 239 79"><defs>
+	<style>.cls-1{fill:#fff;}.cls-2{fill:#231f20;}
+		#details{
+		display: block;
+	}
+	@media screen and (max-width : 150px){
+		#details{
+			display: none;
+		}
+	}
+	</style></defs>
+	<title>battery</title>
+	<rect class="cls-1" x="2.5" y="2.5" width="222" height="74"/>
+	<path class="cls-2" d="M391,388.5H169l2.5,2.5V317l-2.5,2.5H391l-2.5-2.5v74c0,3.22,5,3.22,5,0V317a2.54,2.54,0,0,0-2.5-2.5H169a2.54,2.54,0,0,0-2.5,2.5v74a2.54,2.54,0,0,0,2.5,2.5H391C394.22,393.5,394.22,388.5,391,388.5Z" transform="translate(-166.5 -314.5)"/><rect class="cls-1" x="224.5" y="21" width="12" height="37"/><path class="cls-2" d="M403,370H391l2.5,2.5v-37L391,338h12l-2.5-2.5v37c0,3.22,5,3.22,5,0v-37A2.54,2.54,0,0,0,403,333H391a2.54,2.54,0,0,0-2.5,2.5v37A2.54,2.54,0,0,0,391,375h12C406.22,375,406.22,370,403,370Z" transform="translate(-166.5 -314.5)"/></svg>

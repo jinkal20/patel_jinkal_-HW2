@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" class="mainIcon" id="adobemuse" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{font-family:'MyriadPro-Bold';}
+	.st2{font-size:48px;}
+	#details{
+		display: block;
+	}
+	@media screen and (max-width : 150px){
+		#details{
+			display: none;
+		}
+	}
+</style>
+<g id="border">
+	<rect x="251" y="346" class="st0" width="109.1" height="101"/>
+	<g>
+		<path d="M361,446.4c-30.7,0-61.4,0-92,0c-5.3,0-10.5,0-15.8,0c-1.7,0-0.6,0.3-0.8-0.2c-0.4-1.4,0-3.6,0-5c0-17.3,0-34.6,0-52
+			c0-14.5,0-29,0-43.5c-0.8,0.3-1.6,0.7-2.4,1c30.7,0,61.4,0,92,0c5.3,0,10.5,0,15.8,0c1.7,0,0.6-0.3,0.8,0.2c0.4,1.4,0,3.6,0,5
+			c0,17.3,0,34.6,0,52c0,14.5,0,29,0,43.5c0,0.5,2.9,0.1,2.9-0.8c0-29.5,0-59,0-88.4c0-4.2,0-8.4,0-12.6c0-0.2-0.4-0.2-0.5-0.2
+			c-31.9,0-63.7,0-95.6,0c-4.5,0-9,0-13.5,0c-0.5,0-2.4,0.2-2.4,1c0,29.5,0,59,0,88.4c0,4.2,0,8.4,0,12.6c0,0.2,0.4,0.2,0.5,0.2
+			c31.9,0,63.7,0,95.6,0c4.5,0,9,0,13.5,0C359.8,447.6,362.4,446.4,361,446.4z"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 271.54 415.5)" class="st1 st2">Mu</text>
+</svg>
